@@ -1,64 +1,48 @@
 ---
-layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Zhiming Zhang
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+[2024312354@stu.hit.edu.cn](mailto:2024312354@stu.hit.edu.cn) · [+86 152 1870 3417](tel:+8615218703417) · [GitHub](https://github.com/ZhimingZhang2005)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Research Interests
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Trustworthy AI · Embodied Intelligence
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Education
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Harbin Institute of Technology, Shenzhen**<br>
+B.Eng. in Automation · September 2024 - 2028 (expected)<br>
+Third-year undergraduate
+
+## Research Experience
+
+**Research Intern · [Prof. Bin Chen's Research Group](https://binchen2021.github.io/#groups)**<br>
+Harbin Institute of Technology, Shenzhen · Current
+
+- Working on trustworthy AI.
+
+## Selected Project
+
+**National University Students Intelligent Car Race · Intelligent Vision Track**<br>
+August 2025
+
+- Worked on the vision recognition module, deploying MobileNetV2 on an embedded device.
+- Received First Prize at the national level.
+
+## Honors & Awards
+
+- **National Scholarship**, Ministry of Education, China, 2025
+- **First Prize**, National University Students Intelligent Car Race, Intelligent Vision Track (national level), 2025
+- **First-Class Academic Scholarship**, Harbin Institute of Technology, Shenzhen, 2025
+
+## Technical Skills
+
+- **Programming:** Python
+- **Frameworks & Libraries:** PyTorch, OpenCV
+- **Tools & Platforms:** Linux, Git, LaTeX
