@@ -11,7 +11,7 @@ I am a third-year undergraduate student in **Automation** at **Harbin Institute 
 
 I am currently a **research intern** in [Prof. Bin Chen's research group](https://binchen2021.github.io/#groups), working on **trustworthy AI**. My research interests are **trustworthy AI** and **embodied intelligence**.
 
-This website is a personal record of my projects, learning notes, and ongoing explorations.
+This website is a personal record of my learning notes and ongoing explorations.
 
 ## Research
 
@@ -24,13 +24,6 @@ My current work focuses on trustworthy AI.
 
 **Harbin Institute of Technology, Shenzhen**<br>
 B.Eng. in Automation · September 2024 - 2028 (expected)
-
-## Selected Project
-
-**Intelligent Car Vision · 2025**<br>
-Worked on the vision recognition module for the National University Students Intelligent Car Race, Intelligent Vision Track. Received **First Prize at the national level**.
-
-[View project details](/projects/)
 
 ## Honors & Awards
 

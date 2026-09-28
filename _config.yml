@@ -4,14 +4,14 @@ site_theme               : "default"
 title                    : "Zhiming Zhang"
 title_separator          : "-"
 name                     : "Zhiming Zhang"
-description              : "Zhiming Zhang's personal website: trustworthy AI, embodied intelligence, projects, and learning notes."
+description              : "Zhiming Zhang's personal website: trustworthy AI, embodied intelligence, and learning notes."
 url                      : "https://zhimingzhang2005.github.io"
 baseurl                  : ""
 repository               : "ZhimingZhang2005/ZhimingZhang2005.github.io"
 
 # Blank profile fields do not appear in the sidebar.
 author:
-  avatar           : "zhiming-initials.svg"
+  avatar           : "zhiming-avatar.png"
   name             : "Zhiming Zhang"
   bio              : "Automation undergraduate<br>Trustworthy AI &amp; Embodied Intelligence"
   location         : "Shenzhen, China"
@@ -104,6 +104,10 @@ include:
   - _pages
   - files
 exclude:
+  - .local
+  - .scripts
+  - site.cmd
+  - LOCAL_DEVELOPMENT.md
   - AGENTS.md
   - docker-compose.yaml
   - markdown_generator

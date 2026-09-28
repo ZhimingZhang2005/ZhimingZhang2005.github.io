@@ -8,11 +8,10 @@ Website: https://zhimingzhang2005.github.io
 
 - `_config.yml`: identity, contact links, and site settings.
 - `_pages/about.md`: homepage.
-- `_pages/projects.md`: short project descriptions.
 - `_pages/cv.md`: current online CV.
 - `_data/cv.json`: optional structured CV data.
 - `_data/navigation.yml`: navigation.
-- `images/zhiming-initials.svg`: initials avatar; replace it and update `author.avatar` to add a photo.
+- `images/zhiming-avatar.png`: profile image; update `author.avatar` in `_config.yml` to use a different file.
 
 ## Add a note
 
@@ -31,6 +30,16 @@ share: false
 Write the note in Markdown below the front matter. It will appear automatically on `/notes/`.
 
 ## Preview
+
+On this Windows computer, use the configured Ubuntu runtime:
+
+```powershell
+.\site.cmd preview
+```
+
+Open http://localhost:4000. See [the local maintenance guide](LOCAL_DEVELOPMENT.md) for editing, adding notes, building, and publishing.
+
+For a separate Ruby environment:
 
 ```sh
 bundle install
